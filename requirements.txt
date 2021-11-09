@@ -1,0 +1,10 @@
+fire==0.4.0
+ipython
+jupyter
+matplotlib
+numpy
+requests==2.25.1
+scikit-learn
+pandas
+pycodestyle==2.5.0
+yfinance
